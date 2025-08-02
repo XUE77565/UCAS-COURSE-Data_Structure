@@ -1,2 +1,3 @@
-# UCAS-COURSE-Data_Structure
-[UCAS COURSE]  Data Structure by 金蓓弘
+中国科学院大学 金蓓弘 数据结构
+
+包含绝大部分oj平台的题目(可能没有一些比较显然的题目)和作业
